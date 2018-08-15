@@ -3,3 +3,14 @@
 	margin: 0;
 	background-color: #fff;
 }
+div {
+	width: 200px;
+	height: 200px;
+	background-color: skyblue;
+	font-size: 20px;
+	color: #ccc;
+}
+
+h3 {
+	color: yellow;
+}
